@@ -2,4 +2,5 @@
 
 Dieses Repository dient zum Üben des Github_Flows
 
-Wir haben unsere erste Änderung vorgenommen und einen Branch erstellt.
+Wir löschen zwei Zeilen und fügen diese neuen Zeilen hinzu.
+
